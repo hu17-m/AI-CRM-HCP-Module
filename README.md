@@ -121,6 +121,9 @@ Met Dr Rajesh Patel at 3 PM discussed diabetes treatment positive
 Search Dr Sneha Joshi
 Delete interaction 5
 Edit interaction 3
+
+
+
 📊 Outcome
 
 This project demonstrates:
@@ -141,8 +144,7 @@ Role-based authentication
 Deployment (Netlify + Render/AWS)
 
 
-**👨‍💻 Author
-
+👨‍💻 Author
 
 Himanshu Gadekar
-B.Tech CSE | Full Stack + AI/ML Developer**
+B.Tech CSE | Full Stack + AI/ML Developer
